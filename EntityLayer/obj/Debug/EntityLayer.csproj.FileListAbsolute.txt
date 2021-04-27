@@ -1,0 +1,12 @@
+D:\calismalar\github\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\calismalar\github\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+D:\calismalar\github\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\calismalar\github\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+D:\calismalar\github\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\calismalar\github\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+D:\calismalar\github\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\calismalar\github\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\calismalar\github\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\calismalar\github\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+D:\calismalar\github\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+D:\calismalar\github\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
